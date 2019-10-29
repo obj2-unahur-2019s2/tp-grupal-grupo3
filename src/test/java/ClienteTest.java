@@ -3,7 +3,7 @@ import autos.Kwid;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
-public class BancoTest {
+public class ClienteTest {
 
     Cliente cliente;
     Banco bancoFrances;

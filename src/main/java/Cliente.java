@@ -9,9 +9,9 @@ public class Cliente {
     }
 
     public void solicitarPrestamo(int monto, Banco banco) {
-        if(banco.solicitudPrestamo(monto)) {
-            this.dinero += monto;
-        }
+        banco.solicitudPrestamo(monto);
+        this.dinero += monto;
+
     }
 
     public void comprarAuto(Auto modelo) {

@@ -25,7 +25,7 @@ public class Banco implements Aprobador {
         System.out.println("Solicitando prestamo...");
 
         //Seteo los aprobadores localmente en el metodo.
-        EjecutivoDeCuenta ejecutivo = new EjecutivoDeCuenta();
+        Ejecutivo ejecutivo = new Ejecutivo();
         this.setSiguiente(ejecutivo);
 
         LiderEjecutivo lider = new LiderEjecutivo();

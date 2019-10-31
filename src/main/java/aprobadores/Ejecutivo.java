@@ -1,6 +1,6 @@
 package aprobadores;
 
-public class EjecutivoDeCuenta implements Aprobador {
+public class Ejecutivo implements Aprobador {
     private Aprobador siguiente;
 
     //Seteo el proximo aprobador.

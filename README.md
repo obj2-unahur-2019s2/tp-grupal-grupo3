@@ -14,7 +14,7 @@ En caso de no contar con el dinero suficiente para comprarlo, dicho cliente podr
 
 - **Renault Kwid** que funcionan _a gas_. 
   Cada uno de ellos puede tener puesto, o no, un tanque adicional. 
-  - La capacidad de un Kwid es de 4 pasajeros si no tiene puesto el tanque adicional, o 3 pasajeros si sí lo tiene puesto.
+  - La capacidad de un Kwid es de 4 pasajeros si no tiene puesto el tanque adicional, o 3 pasajeros si lo tiene puesto.
   - La velocidad máxima es 120 km/h con, o 110 km/h sin, tanque adicional.
    <br>
 

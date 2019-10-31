@@ -3,13 +3,11 @@ package aprobadores;
 public class Ejecutivo implements Aprobador {
     private Aprobador siguiente;
 
-    //Seteo el proximo aprobador.
     @Override
     public void setSiguiente(Aprobador siguiente) {
         this.siguiente = siguiente;
     }
 
-    //Devuelvo el proximo aprobador.
     @Override
     public Aprobador getSiguiente() {
         return this.siguiente;

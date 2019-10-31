@@ -17,7 +17,7 @@ public class Banco implements Aprobador {
     }
 
     /*
-    * Aqui se aplica la innterfaz que va delegando la tarea de aprobar
+    * Aqui se aplica la interfaz que va delegando la tarea de aprobar
     * la solicitud del prestamo.
     */
     @Override

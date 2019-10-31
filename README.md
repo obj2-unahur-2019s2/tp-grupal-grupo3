@@ -25,7 +25,7 @@ Estamos realizando el software para un banco y uno de los puntos más importante
 
 - **Ejecutivo**
   - Si el monto no supera los $ 10.000 entonces el ejecutivo de cuenta pueda aprobar el préstamo.
-- **Ejecutivo de Cuentas**
+- **Lider Ejecutivo**
   - Si el monto esta entre los $10.000 y $50.000 entonces la persona indicada para realizar la aprobación es el líder ejecutivo de cuentas.
 - **Gerente**
   - Si el monto se encuentra entre $ 50.000 y $100.000 entonces es el Gerente quién debe realizar dicha aprobación.

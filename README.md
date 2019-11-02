@@ -31,3 +31,4 @@ Estamos realizando el software para un banco y uno de los puntos más importante
   - Si el monto se encuentra entre $ 50.000 y $100.000 entonces es el Gerente quién debe realizar dicha aprobación.
 - **Director**
   - Por montos superiores a los $100.000 entonces la aprobación la realizará el Director.
+!  []_(/Ejercicio2.plantum)
